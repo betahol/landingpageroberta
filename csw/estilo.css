@@ -1,0 +1,24 @@
+table {
+    text-align: justify;
+    width: 80%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+th {
+    background-color: slategray;
+    margin: 10px;
+    text-align: center;
+}
+
+td {
+    background-color: silver;
+    padding: 10px;
+    
+}
+
+td >img {
+    border-radius: 8px;
+    margin: 10px;
+    border: 1px solid black;
+}
